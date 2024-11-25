@@ -1,0 +1,14 @@
+[
+  {
+    "user_name": "emma.emails",
+  	"preferred_doable_type": "email"
+  },
+  {
+    "user_name": "terry.tasks",
+  	"preferred_doable_type": "task"
+  },
+  {
+    "user_name": "bobby.undecided",
+  	"preferred_doable_type": null
+  }
+]
